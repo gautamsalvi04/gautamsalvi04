@@ -5,6 +5,9 @@
 - 📫 How to reach me - Email: gautamsalvi8@gmail.com
 LinkedIn: https://www.linkedin.com/in/salvi-gautam-a272b7250/
 - 😄 Pronouns: She / Her
+- ![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamsalvi04&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsalvi04&layout=compact&theme=radical)
+
 
 <!---
 gautamsalvi04/gautamsalvi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
